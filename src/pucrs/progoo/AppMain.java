@@ -2,7 +2,7 @@ package pucrs.progoo;
 
 import java.util.ArrayList;
 
-public class AppTeste {
+public class AppMain {
 
 	public static void main(String[] args) {
 		
