@@ -35,7 +35,8 @@ public class Venda {
             rel.append("\n");
         }
         rel.append("\n");
-        rel.append("Total: " + this.valorTotal());
+        rel.append("Total =                 ");
+        rel.append(this.valorTotal());
         rel.append("\n-----------------------------\n");
         return rel.toString();
     }

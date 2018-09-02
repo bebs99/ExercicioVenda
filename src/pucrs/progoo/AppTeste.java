@@ -20,7 +20,7 @@ public class AppTeste {
 		prod = cadProd.pesquisar(21);
 		if (prod != null) venda1.inserir(prod);
 
-		//System.out.println("Total da venda1: "+venda1.valorTotal());
+		//System.out.println("Total da venda1= "+venda1.valorTotal());
 
 		System.out.println(venda1.toString());
 
